@@ -79,6 +79,14 @@ https://tv.teleclub.xyz/live/hls_1/RT_ESPANOL.m3u8
 https://tv.teleclub.xyz/live/hls_1/TELEFE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/uYOLwOj.png" group-title="Mundo [Club1]", El trece [Club]
 https://tv.teleclub.xyz/live/hls_1/ELTRECE.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/6ktFoIR.jpg" group-title="Splikt", ARG | America Tucuman
+http://45.6.4.154/americatuc/vivo.m3u8?PlaylistM3UCL
+#EXTINF:-1 tvg-logo="https://i.imgur.com/CmJxr2s.png" group-title="Splikt", Canal 9
+http://b3948-t5.hd1.cdn.spliktv.xyz/live/live2/Canal9/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/rVWCMOU.png" group-title="Splikt", Canal 13 
+http://b3948-t5.hd1.cdn.spliktv.xyz/live/live2/ArtearHD/SA_Live_fta/index.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/4CGsqqj.jpg" group-title="Splikt", TV Publica 
+http://b3948-t5.hd1.cdn.spliktv.xyz/live/live2/Canal7/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iiw3ibE.png" group-title="Mundo [Club1]", Lifetime [Club]
 https://tv.teleclub.xyz/live/hls_1/LIFETIME.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/EaWNj3F.jpg" group-title="Mundo [Club1]", Hola! [Club]
@@ -147,6 +155,8 @@ https://tv.teleclub.xyz/live/hls_1/DISTRITOCOMEDIA.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/eHhcsEN.png" group-title="Entretenimiento [Club1]", Star Channel [Club]
 https://tv.teleclub.xyz/live/hls_1/FOX.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/oqb33UH.png" group-title="Splikt", Star Channel HD
+http://b3948-t5.hd1.cdn.spliktv.xyz/live/live2/FXHD/SA_Live_fta/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cy89pWC.png" group-title="Entretenimiento [Club1]", Star Life [Club]
 https://tv.teleclub.xyz/live/hls_1/FOXLIFE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/MshuPCU.png" group-title="Entretenimiento [Club1]", Star Action [Club]
@@ -237,6 +247,10 @@ https://tv.teleclub.xyz/live/hls_1/UFC.m3u8
 https://tv.teleclub.xyz/live/hls_1/NBA.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/hMo03Pz.png" group-title="Deportes [Club1]", GolPeru [Club]
 https://tv.teleclub.xyz/live/hls_1/GOLPERU.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/pc19ZJM.png" group-title="Splikt", FoxSports PREMIUM
+http://sv.spliktv.xyz/live/caster/enc/FOXSPORTSP.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IZdFG26.jpg" group-title="Splikt", TNT SPORT PREMIUM
+http://sv.spliktv.xyz/live/caster/enc/TNTSPORTS.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes [Club1]", ESPN Deportes [Club]
 https://tv.teleclub.xyz/live/hls_1/ESPN_DEPORTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes [Club1]", Estadio TNT Sports [Club]
