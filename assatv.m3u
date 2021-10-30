@@ -250,7 +250,7 @@ https://tv.teleclub.xyz/live/hls_1/GOLPERU.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/pc19ZJM.png" group-title="Splikt", FoxSports PREMIUM
 http://sv.spliktv.xyz/live/caster/enc/FOXSPORTSP.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/IZdFG26.jpg" group-title="Splikt", TNT SPORT PREMIUM
-http://sv.spliktv.xyz/live/caster/enc/TNTSPORTS.m3u8
+https://livestreamapis.com/v3/accounts/27014129/events/8167338/master.m3u8?token=d78bd5f6f8c622253ec32dafc43d7adc&clientId=18998&timestamp=1635618905555&signature=605c4756797d80000dfb2d167eacd10e5947aa7f0e67cd10a289ea132c283c7d52138a0d21be6eaab3f5711f3ae5eb2b
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Q9eV0bt.png" group-title="Deportes [Club1]", ESPN Deportes [Club]
 https://tv.teleclub.xyz/live/hls_1/ESPN_DEPORTE.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/6VFa7F6.png" group-title="Deportes [Club1]", Estadio TNT Sports [Club]
